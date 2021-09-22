@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+.details{
+    background: linear-gradient(to left, #00416a, #e4e5e6);
+    width: 50%;
+    margin: 0px auto;
+    border-radius: 20px;
+    font-family: "Playball";
+    text-transform: capitalize;
+    margin-top: 30px;
+}
+img{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px double black;
+    margin-top: 20px;
+}
