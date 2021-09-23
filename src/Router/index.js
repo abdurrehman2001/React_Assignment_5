@@ -6,6 +6,5 @@ export{
     Experience,
     Profile,
     Contact,
-    AppRounter,
-
+    AppRounter
 }
